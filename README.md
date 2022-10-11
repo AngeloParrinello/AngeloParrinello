@@ -1,6 +1,6 @@
 # Angelo Parrinello
 
-Master's Degree student in Engineering and Computer Science at University of Bologna. Exchange student in Computer Science at Stockholm University.
+Master's Degree Student in Engineering and Computer Science at University of Bologna. Computer Science Exchange Student at Stockholm University.
 
 ## Contacts
 
