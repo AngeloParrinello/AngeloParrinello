@@ -10,6 +10,6 @@ Software Engineer at Moneyfarm.
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=AngeloParrinello)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
