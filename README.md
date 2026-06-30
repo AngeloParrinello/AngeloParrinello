@@ -1,11 +1,10 @@
 # Angelo Parrinello
 
-Master's Degree Graduate Student in Engineering and Computer Science at University of Bologna. Computer Science Exchange Student at Stockholm University.
+Software Engineer at Moneyfarm.
 
 ## Contacts
 
- - Personal Email: angelo.parrinello90@gmail.com
- - Academic Email: angelo.parrinello@studio.unibo.it
+ - Email: angelo.parrinello90@gmail.com
 
 ## Code stats
 
