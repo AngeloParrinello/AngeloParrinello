@@ -10,8 +10,8 @@ Software Engineer at Moneyfarm.
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=AngeloParrinello)](https://github.com/stats-organization/github-stats-extended)
+ [![trophy](https://gh-trophy.cdnsoft.net/?username=AngeloParrinello&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Angelo Parrinello's GitHub stats](https://profile-summary-for-github.com/user/AngeloParrinello)]
+ [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=AngeloParrinello&langs_count=8&layout=compact&hide=html,css,scss,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
